@@ -1,0 +1,23 @@
+Starting job on  Tue Jul 26 21:21:29 CEST 2016
+Running on  Linux lxplus074.cern.ch 2.6.32-642.1.1.el6.x86_64 #1 SMP Wed Jun 1 07:47:00 CEST 2016 x86_64 x86_64 x86_64 GNU/Linux
+System release  Scientific Linux CERN SLC release 6.8 (Carbon)
+name: WpTpb_Wp2000Nar_Tp1500NarLH_Wb
+carddir: cards/production/13TeV/WpToTpBottom/WpTpb_Wp2500Nar_Tp1900NarLH_Wb
+queue: 1nd
+# On branch master
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	WpTpb_Wp2000Nar_Tp1500NarLH_Wb.log
+#	WpTpb_Wp2000Nar_Tp1500NarLH_Wb/
+#	WpTpb_Wp2000Nar_Tp1500NarLH_Wb_tarball.tar.xz
+#	ZpTpt_Zp1500Nar_Tp700WidLH_Ht.log
+#	ZpTpt_Zp1500Nar_Tp700WidLH_Ht/
+#	cards/production/13TeV/WpToTpBottom/
+nothing added to commit but untracked files present (use "git add" to track)
+Current git revision is:
+8c9401a85aab85075708150ef3ee4c2a83109d3f
+/afs/cern.ch/user/j/jsiadoca/genproductions/bin/MadGraph5_aMCatNLO
+Reusing existing directory assuming generated code already exists
+WARNING: If you changed the process card you need to clean the folder and run from scratch
+Reusing an existing process directory WpTpb_Wp2000Nar_Tp1500NarLH_Wb is not actually supported in production at the moment.  Please clean or move the directory and start from scratch.

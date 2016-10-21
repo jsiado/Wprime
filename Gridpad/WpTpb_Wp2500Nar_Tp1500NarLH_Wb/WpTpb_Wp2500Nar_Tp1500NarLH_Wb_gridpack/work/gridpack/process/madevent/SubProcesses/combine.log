@@ -1,0 +1,28 @@
+==== LHAPDF6 USING DEFAULT-TYPE LHAGLUE INTERFACE ====
+LHAPDF 6.1.5 loading /cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/lhapdf/6.1.5-ddibom2/share/LHAPDF/NNPDF30_lo_as_0130_nf_4/NNPDF30_lo_as_0130_nf_4_0000.dat
+NNPDF30_lo_as_0130_nf_4 PDF set, member #0, version 2; LHAPDF ID = 263400
+ A PDF is used, so alpha_s(MZ) is going to be modified
+ Old value of alpha_s from param_card:   0.11839999999999999     
+ New value of alpha_s from PDF lhapdf :  0.12470044313224841     
+ using LHAPDF
+ Results.dat xsec =    62.951999999999998       abs xsec =    62.951999999999998     
+ Found            6  subprocesses
+ SubProcess/Channel     kept   read   xsec 
+P3_qq_bxwpbg/G1/     464     464 0.123E+02
+P3_qq_bxwpbg/G2/     789     789 0.250E+02
+P3_qq_bxwpbg/G3/    1152    9471 0.307E+02
+P3_qq_bxwpbg/G4/    1497   13021 0.362E+02
+P4_qq_wmbxbg/G1/    1781   14208 0.406E+02
+P4_qq_wmbxbg/G2/    2054   16264 0.449E+02
+P4_qq_wmbxbg/G3/    2179   20405 0.469E+02
+P4_qq_wmbxbg/G4/    2291   39061 0.487E+02
+P3_gq_bxwpbq/G1/    2291   42279 0.487E+02
+P3_gq_bxwpbq/G2/    2350   47805 0.496E+02
+P4_gq_wmbxbq/G1/    2350   49263 0.496E+02
+P4_gq_wmbxbq/G2/    2373   51067 0.500E+02
+P1_qq_bxwpb/G1/    2963   51867 0.593E+02
+P2_qq_wmbxb/G1/    3173   52679 0.626E+02
+ Iteration            1  too few events    1.9333032255414848E-004         995
+ Found         1088  events writing first         1000
+ Unweighting selected         1000  events.
+Truncated  0.03% of cross section

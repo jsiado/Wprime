@@ -1,0 +1,181 @@
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c      written by the UFO converter
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+sminputs 1 aEWM1
+
+sminputs 2 mdl_Gf
+
+sminputs 3 aS
+
+yukawa 5 mdl_ymb
+
+yukawa 6 mdl_ymt
+
+yukawa 15 mdl_ymtau
+
+frblock 1 mdl_xi
+
+frblock 2 mdl_grhopWZ
+
+frblock 3 mdl_grhopWh
+
+frblock 4 mdl_grhopud
+
+frblock 5 mdl_grhoptb
+
+frblock 6 mdl_grhopT23LbL
+
+frblock 7 mdl_grhopX23LbL
+
+frblock 8 mdl_grhopX53LX23L
+
+frblock 9 mdl_grhopX53RX23R
+
+frblock 10 mdl_grhopX53LtL
+
+frblock 11 mdl_grhopX53RtR
+
+frblock 12 mdl_grhopX53LT23L
+
+frblock 13 mdl_grhopX53RT23R
+
+frblock 14 mdl_grhopT23LB13L
+
+frblock 15 mdl_grhopT23RB13R
+
+frblock 16 mdl_grhoptLB13L
+
+frblock 17 mdl_grhoptRB13R
+
+frblock 18 mdl_grhopX23LB13L
+
+frblock 19 mdl_grhopX23RB13R
+
+frblock 20 mdl_grho0WW
+
+frblock 21 mdl_grho0Zh
+
+frblock 22 mdl_grho0ffL
+
+frblock 23 mdl_grho0ffY
+
+frblock 24 mdl_grho0ttL
+
+frblock 25 mdl_grho0bbL
+
+frblock 26 mdl_grho0ttR
+
+frblock 27 mdl_grho0bbR
+
+frblock 28 mdl_grho0X53LX53L
+
+frblock 29 mdl_grho0X53RX53R
+
+frblock 30 mdl_grho0X23LX23L
+
+frblock 31 mdl_grho0X23RX23R
+
+frblock 32 mdl_grho0X23LtL
+
+frblock 33 mdl_grho0X23RtR
+
+frblock 34 mdl_grho0X23LT23L
+
+frblock 35 mdl_grho0X23RT23R
+
+frblock 36 mdl_grho0T23LT23L
+
+frblock 37 mdl_grho0T23RT23R
+
+frblock 38 mdl_grho0T23LtL
+
+frblock 39 mdl_grho0T23RtR
+
+frblock 40 mdl_grho0B13LB13L
+
+frblock 41 mdl_grho0B13RB13R
+
+frblock 42 mdl_grhoprhomZ
+
+frblock 43 mdl_grhopWmrho0
+
+frblock 44 mdl_grhoprhomrho0
+
+frblock 45 mdl_ghWW
+
+frblock 46 mdl_ghZZ
+
+frblock 47 mdl_ghhWW
+
+frblock 48 mdl_ghhZZ
+
+frblock 49 mdl_gWT23LbL
+
+frblock 50 mdl_gWX23LbL
+
+frblock 51 mdl_gWtLB13L
+
+frblock 52 mdl_gWtRB13R
+
+frblock 53 mdl_gWX53LtL
+
+frblock 54 mdl_gWX53RtR
+
+frblock 55 mdl_gZT23LtL
+
+frblock 56 mdl_gZT23RtR
+
+frblock 57 mdl_gZX23LtL
+
+frblock 58 mdl_gZX23RtR
+
+frblock 59 mdl_ghT23LtR
+
+frblock 60 mdl_ghtLT23R
+
+frblock 61 mdl_ghX23LtR
+
+frblock 62 mdl_ghtLX23R
+
+mass 23 mdl_MZ
+
+mass 15 mdl_MTA
+
+mass 6 mdl_MT
+
+mass 5 mdl_MB
+
+mass 25 mdl_MH
+
+mass 9900213 mdl_mrhop
+
+mass 9900113 mdl_mrho0
+
+mass 8000001 mdl_MT23
+
+mass 8000002 mdl_MB13
+
+mass 8000003 mdl_MX53
+
+mass 8000004 mdl_MX23
+
+decay 23 mdl_WZ
+
+decay 24 mdl_WW
+
+decay 6 mdl_WT
+
+decay 25 mdl_WH
+
+decay 9900213 mdl_wrhop
+
+decay 9900113 mdl_wrho0
+
+decay 8000001 mdl_WT23
+
+decay 8000002 mdl_WB13
+
+decay 8000003 mdl_WX53
+
+decay 8000004 mdl_WX23

@@ -1,0 +1,34 @@
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c      written by the UFO converter
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+      DOUBLE PRECISION G
+      COMMON/STRONG/ G
+
+      DOUBLE COMPLEX GAL(2)
+      COMMON/WEAK/ GAL
+
+      DOUBLE PRECISION MU_R
+      COMMON/RSCALE/ MU_R
+
+      DOUBLE PRECISION NF
+      PARAMETER(NF=4)
+
+      DOUBLE PRECISION MDL_MX53,MDL_MT,MDL_MW,MDL_MRHO0,MDL_MZ,MDL_MTA
+     $ ,MDL_MB13,MDL_MB,MDL_MRHOP,MDL_MH,MDL_MX23,MDL_MT23
+
+      COMMON/MASSES/ MDL_MX53,MDL_MT,MDL_MW,MDL_MRHO0,MDL_MZ,MDL_MTA
+     $ ,MDL_MB13,MDL_MB,MDL_MRHOP,MDL_MH,MDL_MX23,MDL_MT23
+
+
+      DOUBLE PRECISION MDL_WW,MDL_WRHO0,MDL_WT23,MDL_WZ,MDL_WT
+     $ ,MDL_WX53,MDL_WRHOP,MDL_WX23,MDL_WH,MDL_WB13
+
+      COMMON/WIDTHS/ MDL_WW,MDL_WRHO0,MDL_WT23,MDL_WZ,MDL_WT,MDL_WX53
+     $ ,MDL_WRHOP,MDL_WX23,MDL_WH,MDL_WB13
+
+
+      DOUBLE COMPLEX GC_7, GC_44, GC_49, GC_64
+
+      COMMON/COUPLINGS/ GC_7, GC_44, GC_49, GC_64
+

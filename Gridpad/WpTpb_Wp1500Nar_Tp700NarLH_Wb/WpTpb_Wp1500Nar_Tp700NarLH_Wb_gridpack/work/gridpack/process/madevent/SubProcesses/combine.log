@@ -1,0 +1,48 @@
+==== LHAPDF6 USING DEFAULT-TYPE LHAGLUE INTERFACE ====
+LHAPDF 6.1.5 loading /cvmfs/cms.cern.ch/slc6_amd64_gcc481/external/lhapdf/6.1.5-ddibom2/share/LHAPDF/NNPDF30_lo_as_0130_nf_4/NNPDF30_lo_as_0130_nf_4_0000.dat
+NNPDF30_lo_as_0130_nf_4 PDF set, member #0, version 2; LHAPDF ID = 263400
+ A PDF is used, so alpha_s(MZ) is going to be modified
+ Old value of alpha_s from param_card:   0.11839999999999999     
+ New value of alpha_s from PDF lhapdf :  0.12470044313224841     
+ using LHAPDF
+ Results.dat xsec =    109.45000000000000       abs xsec =    109.45000000000000     
+ Found            6  subprocesses
+ SubProcess/Channel     kept   read   xsec 
+P3_qq_bxwpbg/G1/     722    6029 0.198E+02
+P3_qq_bxwpbg/G2/    1366    7201 0.374E+02
+P3_qq_bxwpbg/G3/    1426    7261 0.468E+02
+P3_qq_bxwpbg/G4/    1768   10832 0.562E+02
+P4_qq_wmbxbg/G1/    2065   13767 0.643E+02
+P4_qq_wmbxbg/G2/    2327   16479 0.715E+02
+P4_qq_wmbxbg/G3/    2459   20508 0.751E+02
+P4_qq_wmbxbg/G4/    2589   29075 0.786E+02
+P3_gq_bxwpbq/G1/    2592   32102 0.787E+02
+P3_gq_bxwpbq/G2/    2690   32623 0.814E+02
+P4_gq_wmbxbq/G1/    2690   33285 0.814E+02
+P4_gq_wmbxbq/G2/    2743   35814 0.829E+02
+P1_qq_bxwpb/G1/    3423   36613 0.101E+03
+P2_qq_wmbxb/G1/    3681   37383 0.109E+03
+ Iteration            1  too large truncation    2.8590639904309139E-002         987
+ Iteration            2  too large truncation    1.1114911748969343E-002         784
+ Iteration            3  too few events    5.9824406603064487E-004         603
+ Iteration            4  too few events    6.8028290098210136E-004         621
+ Iteration            5  too few events    7.5821979418598485E-004         685
+ Iteration            6  too few events    2.4374117489693653E-003         699
+ Iteration            7  too few events    6.6576945159596349E-003         733
+ Iteration            8  too large truncation    1.0666963144600436E-002         798
+ Iteration            9  too few events    5.8853851293598502E-004         615
+ Iteration           10  too few events    6.7106262554217453E-004         603
+ Iteration           11  too few events    7.4946053251805447E-004         698
+ Iteration           12  too few events    1.9381338338973310E-003         701
+ Iteration           13  too few events    6.1833804966412217E-003         729
+ Iteration           14  too large truncation    1.0216364826247928E-002         780
+ Iteration           15  too few events    5.7877554937168043E-004         618
+ Iteration           16  too few events    6.6178781015608517E-004         593
+ Iteration           17  too few events    7.4064945790126944E-004         705
+ Iteration           18  too few events    1.4359025807405817E-003         691
+ Iteration           19  too few events    5.7062608061423320E-003         697
+ Iteration           20  too few events    9.7631011202739589E-003         824
+ Failed to find requested number of unweighted events        1000         824
+ Unable to get         1000  events. Writing          824
+ Unweighting selected          824  events.
+Truncated  0.98% of cross section
